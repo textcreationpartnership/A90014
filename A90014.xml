@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>New propositions from the Armie, to the Presbyterians and Independents within the City of London; concerning their bringing of the Kings Majesty to White-Hall, the time prefixed, and the manner how his royall person shall be setled in his throne. With the demands and proposals of the Independent party touching the Kings Majesty, and both Houses of Parliament; and their resolution concerning the treaty. Also, their new declaration, containing severall arguments and reasons, touching His Majesties wearing the crown, and governing his people by the lawes of the land. Published by authority.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90014</idno><idno type="EEBO-CITATION">99863142</idno>
+  <idno type="VID">162350</idno>
+  <idno type="EEBO-PROQUEST">2240952817</idno>
+  
+            <idno type="STC">Wing N726</idno>
+            <idno type="STC">Thomason E468_34</idno>
+            <idno type="STC">ESTC R203050</idno>
+            <idno type="PROQUEST">99863142</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99863142e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90014)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162350)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 75:E468[34])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>New propositions from the Armie, to the Presbyterians and Independents within the City of London; concerning their bringing of the Kings Majesty to White-Hall, the time prefixed, and the manner how his royall person shall be setled in his throne. With the demands and proposals of the Independent party touching the Kings Majesty, and both Houses of Parliament; and their resolution concerning the treaty. Also, their new declaration, containing severall arguments and reasons, touching His Majesties wearing the crown, and governing his people by the lawes of the land. Published by authority.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R.W. and are to be sold at the Royall Exchange in Cornhill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "8ber [i.e. October] ye 24th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term type="corporate_name">England and Wales. --  Army --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162350:1"/>
+            <p>NEW PROPOSITIONS FROM THE ARMIE, TO The Presbyterians and Independents within the City of <hi>London;</hi> concerning their bringing of the Kings Ma<g ref="char:EOLhyphen"/>jesty to White-Hall, the time prefixed, and the manner how His Royall Person shall be setled in His Throne.</p>
+            <p>WITH The Demands and Proposals of the Independent party tou<g ref="char:EOLhyphen"/>ching the Kings Majesty, and both Houses of Parlia<g ref="char:EOLhyphen"/>ment; and their Resolution concerning the <hi>TREATY.</hi>
+            </p>
+            <p>ALSO, Their new Declaration, containing severall Arguments and Reasons, touching His Majesties wearing the Crown, and governing His People by the Lawes of the Land.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>Published by Authority.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>LONDON: Printed for <hi>R. W.</hi> and are to be sold at the Royall Exchange in Cornhill. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:162350:2"/>
+            <pb n="1" facs="tcp:162350:2"/>
+            <head>THE DEMANDS AND Proposals of the <hi>Independent party</hi> within the City of <hi>London,</hi> and parts adjacent; concerning the <hi>King</hi> and <hi>Parliament.</hi>
+            </head>
+            <p>
+               <hi>VVHereas the Lawes of God, Man, and Nature justifie the people in oppo<g ref="char:EOLhyphen"/>sing, fighting against, and impriso<g ref="char:EOLhyphen"/>ning of</hi> Kings, <hi>who act contrary to their Oaths, and the trust imposed on them by the people; and that the same Lawes as much justifie them in opposing the power of Parliament, when they betray their trust, in pleading the interest, and justifying the cause of such princes, joyn with them to levy war against the poor people, whose Trustees they are only, and by whose Votes and Election tdey sit in Parliament, to preserve, and not to
+<pb n="2" facs="tcp:162350:3"/> destroy them, to condemn, and not justifie their Ene<g ref="char:EOLhyphen"/>mies, who have been drunk with the bloud of Saints, and have confest themselves guilty of the bloud of three hundred thousand soules that have perished by war in the three</hi> Kingdoms.</p>
+            <p>
+               <hi>So that <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y this, the Reader may cleerly discern the inference of the free born people of</hi> England <hi>upon the whole, resolving to tosse their Ball amongst the Pres<g ref="char:EOLhyphen"/>byterians, (that so each judgment may catch at it) wherein is wound up severall undeniable Arguments as followeth.</hi>
+            </p>
+            <p n="1">
+               <hi>1.</hi> That the King may erre, notwithstanding the maxim in the Law, <hi>Lex non potest errant,</hi> by l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ying illegall taxes upon the people, introducing Pop<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ry, and levying War a<g ref="char:EOLhyphen"/>gainst them.</p>
+            <p n="2">
+               <hi>2</hi> That in committing such errours, he falsifies the trust which the people of the Land repose in Him, and then His Commands being unlawfull and destructive, it is lawfull for the people to disobey them: and on the contrary, it is n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> lesse then sin, and the forfeiture of all the Liberties, Freedoms, and Birth-rights of the people to give obedience thereunto.</p>
+            <p n="3">
+               <hi>3</hi> That it is lawfull and of nec<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ssity for the people t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> le<g ref="char:EOLhyphen"/>vy war against their King, and a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l that adhere unto him, for defence of themselves, and preservation of their birth<g ref="char:EOLhyphen"/>righte and freedoms, having once broken the trust reposed in Him, and put them out of his protection, by levying war against them, ruling them as a tyrant at his pleasure, and not as a King by the Law of the Nation.</p>
+            <p n="4">
+               <hi>4.</hi> That it is lawfull for the p<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ples Trustees in Parlia<g ref="char:EOLhyphen"/>ment to declare to the Nation <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e miscarriages of such a
+<pb n="3" facs="tcp:162350:3"/> tyrannous Prince, and to state the matters of fact by way of Charge against him.</p>
+            <p n="5">
+               <hi>5</hi> That it is a breach of trust in the peoples Trustees, and a great dishonour for the English Nation, to charge the King with such high Crimes, and neither to prove them against him, nor to clear him of them.</p>
+            <p n="6">
+               <hi>6</hi> It is a great breach of the Trust, and the Nationall League and Covenant, not to bring Delinquents to con<g ref="char:EOLhyphen"/>digne punishment, there being no person exempt by the same.</p>
+            <div type="part">
+               <head>The Demands of the People to the Parliam<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt.</head>
+               <p>First, That a Parliament by breach of Covenant, Trea<g ref="char:EOLhyphen"/>ties, and Acts of Parliament, voting and acting against the Covenant, and siding with, and pleading the interest of the enemies thereof, and of that Nation for which they are Trustees may erre.</p>
+               <p>Secondly, that by breach thereof they have forfeited their trusts to the people for whom they serve, and by whom they were elected.</p>
+               <p>Thirdly, that it is lawfull fog the people of that Nation to levy war against them, for the maintenance of their lives and freedoms, which that parliament endeaxours so give to their enemies, and make them and their posterity slaves for ever.</p>
+               <p>
+                  <hi>The said party doth further declare, That they de<g ref="char:EOLhyphen"/>sire to be governed by a <hi>King,</hi> but such a Prince who shall be governed by the Laws of his people; and in case he <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cts co<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>trary to the said Lawes, to be as liable to the punishment thereof, as the poorest Commoner or subject whatsoever.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:162350:4"/>
+               <head>New propositions from the Army.</head>
+               <p>First, That there may be a strict scrutiny, for the more full discovery of such persons as were con<g ref="char:EOLhyphen"/>trivers or encouragers of the Rebellions aforesaid, and that Justice speedily be executed on them according to the late Orders of Parliament. 2 That impartiall and speedy Justice may be done upon all criminal per<g ref="char:EOLhyphen"/>sons, and especially upon such as have or shal endevor to obstruct the course thereof, or have betrayed their trust, or bin Authors of shedding that innocent bloud, which calls to Heaven for vengeance, that so we may be at peace with God. 3 That the same fault may have the same punishment in the person of <hi>King</hi> or <hi>Lord,</hi> as in the person of the poorest <hi>Commoner.</hi> 4 That all such may be proceeded against as <hi>Traytors,</hi> who act or speak in the Kings behalf, till he shall be acquitted of the guilt of shedding innocent bloud. 5 That the <hi>Army</hi> may speedily have their pay, or a present course be taken against those who unjustly with-hold it; and that they may have the Arrears due since <hi>Ian.</hi> 15. be<g ref="char:EOLhyphen"/>fore they be ordered to pay quarters, and effectuall provision made for the payment of former Arreares. 6 That the intollerable oppression of free quarter be immediatly taken off, and that for the time to come whilest there is necessity for an Army, there may be Assignations given to each Regiment, Troop &amp; Com<g ref="char:EOLhyphen"/>pany, which may be cōstant during the establishments of the <hi>Army,</hi> that the money may not passe from hand to hand till it is half imbezelled, but be paid immedi<g ref="char:EOLhyphen"/>atly from the Countries to the Soldiery, that so all free quarter for ever avoided, it may return from the Souldier to the Country-man again.</p>
+               <pb n="5" facs="tcp:162350:4"/>
+               <p>And now fearing lest the inveterate malice of our ad<g ref="char:EOLhyphen"/>versaries should asperse us with a design to destroy Magistracy and propriety; we cannot but declare, that we shal constantly indevour to defend them both with our lives and fortunes, and in expectation of your Ex<g ref="char:EOLhyphen"/>cellencies favor in the premises, we shall ever pray, &amp;c.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="license">
+                           <p>Subscribed in the name of the Officers and Souldiery of Army, and commanded to be printed, and communi<g ref="char:EOLhyphen"/>cated to the Free-born subjects of <hi>England,</hi> within the Cities of <hi>London</hi> and <hi>Westminster,</hi> the Liberties thereof, and all other Cities, Corporations, and Market Towns, within the Kingdom of <hi>England,</hi> and Domi<g ref="char:EOLhyphen"/>nion of <hi>Wales.</hi>
+                           </p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+            </div>
+            <div type="part">
+               <head>Heads of his Majesties Letter to the Earl of <hi>Warwick.</hi>
+               </head>
+               <p>That his Majesty earnestly desires to put a speedy pe<g ref="char:EOLhyphen"/>riod to the unhappy differences of his bleeding King<g ref="char:EOLhyphen"/>domes; requiring all true subjects to lay their hands up<g ref="char:EOLhyphen"/>on their hearts, and to endeavour the propagating of this blessed Treaty, desiring his Lordship to be instrumentall therein, and to sheath the sword at Sea, during the said term of time, by giving Expresse Orders to the respective Captains aboard the Fleet, to forbear any further Acts of Hostility against the Princes Navy, till they have fur<g ref="char:EOLhyphen"/>ther Orders from his Lordship.</p>
+               <p>
+                  <hi>His Ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>esty in the said Letter) likewise intimated that he had given the same directions to his Sonne the Prince of</hi> Wales, <hi>having sent a Letter unto him, where<g ref="char:EOLhyphen"/>by he may understand the will and pleasure of his Majesty.</hi>
+               </p>
+               <pb n="6" facs="tcp:162350:5"/>
+               <p>
+                  <hi>The last Letters from the Army</hi> Octob. <hi>23. say. That divers Regiments are acting by great and high princi<g ref="char:EOLhyphen"/>ples, and promoting new Proposals to be presented t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> their Generall; the effect whereof, are said to be, 1</hi> That the King map not be inthroned till He be acquit<g ref="char:EOLhyphen"/>ted of the great Charge against his Royall person, in re<g ref="char:EOLhyphen"/>lation to the shedding and imbruing his hands in the innocent bloud of his people. <hi>2</hi> That upon his acquitting himself thereof, he may forthwith be brought from the Isle of <hi>Wight</hi> to the City of <hi>London,</hi> and upon his signing to those things which may tend to the advancement of the Gospell of <hi>Jesus Christ,</hi> and the peace and unity of His Kingdoms, to be admitted to his Throne; to the end, He may rule and govern His people in peace and righteous<g ref="char:EOLhyphen"/>nesse.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
